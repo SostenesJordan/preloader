@@ -11,7 +11,7 @@ padding:"inner"+a,content:b,"":"outer"+a},function(c,d){n.fn[d]=function(d,e){va
 
   $(window).on('load', function () {
 
-    for (var i = 0; i < 5599*100; i++) {
+    for (var i = 0; i < 1599*100; i++) {
       console.log('.');
       // more statements
     }
